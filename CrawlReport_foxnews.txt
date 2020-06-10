@@ -1,0 +1,45 @@
+News site crawled: foxnews.com
+Number of threads: 7
+
+Fetch Statistics:
+==================
+
+# fetches attempted: 19881
+# fetches succeeded: 18802
+# fetches failed or aborted: 1079
+
+Outgoing URLs:
+==================
+
+Total URLs extracted: 3047424
+# unique URLs extracted: 146651
+# unique URLs within News Site: 58661
+# unique URLs outside News Site: 87990
+
+Status codes:
+==================
+
+200 OK: 18802
+301 Moved Permanently:988
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 91
+
+File sizes:
+==================
+
+< 1KB: 2
+1KB ~ < 10KB: 4
+10KB ~ <100KB: 17773
+100KB ~ < 1MB: 614
+>= 1MB: 0
+
+Content-Types:
+==================
+
+text/html: 18388
+image/gif: 3
+image/jpeg: 0
+image/png: 2
+application/pdf: 0
+
